@@ -11,7 +11,7 @@ ________________________________________________________________________________
  - Trade-off:    
 The deeper the Neural Network is, the more energy and time need.      
 
-## What do we mean by "deep"?     
+# Traditional (Machine Learning)      
  - An SVM has basically two layers, which is not considered as “deeper".        
 
 Hard-margin:
@@ -23,11 +23,11 @@ Soft-margin:
 ### Kernal:   
 ![image](https://user-images.githubusercontent.com/88390140/132099698-02f813d7-352e-46e2-bcd1-f7e3ab2f5060.png)
 ![image](https://user-images.githubusercontent.com/88390140/132099720-60051388-ed3e-4f1a-8222-1cdc88b9a81c.png)
+### Classification/regression trees are hierarchical, but not considered as “deep” because every tier (layer) of the trees analyzes the same features.      
 
-### Classification/regression trees are hierarchical, but not considered as “deep” because every tier (layer) of the trees analyzes the same features. 
-
-## A deep network has a sequence of layers for building a hierarchy of features of increasing complexity
-![image](https://user-images.githubusercontent.com/88390140/132100070-d4312bf1-1679-402a-9bda-ed0d3ca21023.png)    Lee et al. (2009)     
-
+# What do we mean by "deep"? 
+![image](https://user-images.githubusercontent.com/88390140/132105281-b35ce4ec-6c99-4cd8-b863-5c0a3f9a26c4.png)
+## Deep Learning will learn how to extract/represent the features by a sequence of layers for building a hierarchy of features of increasing complexity
+![image](https://user-images.githubusercontent.com/88390140/132100070-d4312bf1-1679-402a-9bda-ed0d3ca21023.png)    Lee et al. (2009) 
 
 
