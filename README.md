@@ -5,7 +5,7 @@
  
 ![image](https://user-images.githubusercontent.com/88390140/132099098-1e32bce4-c0b3-4763-9b7a-7610f5f21f51.png)     
 
-Another Deep Learning Course: https://atcold.github.io/pytorch-Deep-Learning/
+Another Deep Learning Course: https://atcold.github.io/pytorch-Deep-Learning/      
 This is my class note about 2021 Fall Course "Deep Learning" taught by my major professor,  
 
 J. James Yang, Ph.D., P.E. 
