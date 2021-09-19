@@ -3,4 +3,10 @@
  
  
  __________________________________________________________
+ ## Background:  
  
+ - Classifiers and regressors are both examples of discriminative learning. But there is more to machine learning than just solving discriminative tasks. 
+ - For example, given a large dataset, without any labels, we might want to **learn a model that concisely captures the characteristics of this data**. Given such a model, we could sample synthetic data examples that resemble the distribution of the training data.
+ - Until recently, we had no method that could synthesize novel photorealistic images. But the success of deep neural networks for discriminative learning opened up new possibilities. The recurrent neural network language models are one example of using a discriminative network (trained to predict the next character) that once trained can act as a generative model.
+
+___________________________________________________________
