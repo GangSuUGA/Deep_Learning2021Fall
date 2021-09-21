@@ -1,11 +1,6 @@
 ## RUN CODE: 
 
 
-
-__________________________________
-
-## Reference Link:
- - [**Python gym.envs.classic_control**](https://www.programcreek.com/python/index/8261/gym.envs.classic_control)
  _________________________________
 ## Robotic manipulator (a "robotic arm") engaged in a pick-and-place task.  
 
@@ -35,3 +30,8 @@ Action|theta1|theta2|Grip
 5 |-20| +20| 1 
 6 |+20| -20| 1 
 7 |+20| +20| 1 
+
+__________________________________
+
+## Reference Link:
+ - [**Python gym.envs.classic_control**](https://www.programcreek.com/python/index/8261/gym.envs.classic_control)
