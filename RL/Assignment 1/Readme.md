@@ -1,6 +1,10 @@
-## RUN CODE: 
+## Running the algorithm: 
+1. Clone or download the repo.
+2. Using the Anaconda prompt or any other terminal, navigate to the root folder and run the file Validate.py by executing: 
 
-
+```
+python Validate.py
+```
  _________________________________
 ## Robotic manipulator engaged in a pick-and-place task.  
 
