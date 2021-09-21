@@ -19,7 +19,8 @@ Range for theta1: [0, 20, 40, 60]; range for theta2: [-60, -40, -20, 0, 20, 40, 
 Action for theta1, theta2: [-20, 20];   
 Action for gripper: [Open/0, Close/1];                    
    
-- There are 8 (2* 2* 2) discrete action the agent can choose.   
+- There are 8 (2* 2* 2) discrete action the agent can choose.     
+
 Action|theta1|theta2|Grip
 ----|----|----|----
 0 |-20| -20| 0 
