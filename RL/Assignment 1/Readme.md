@@ -12,14 +12,13 @@
 
 
 ## State/Observation Space: 
-There are 5 factor we will consider in state definition, **[theta1, theta2, with/without bolt, gripper open/close]**. 
+ - There are 4 factors we will consider in the state definition, **[theta1, theta2, with/without bolt, gripper open/close]**. 
 
 ## Action Space: 
-Range for theta1: [0, 20, 40, 60]; range for theta2: [-60, -40, -20, 0, 20, 40, 60].         
-Action for theta1, theta2: [-20, 20];   
-Action for gripper: [Open/0, Close/1];                    
-   
-- There are 8 (2* 2* 2) discrete action the agent can choose.     
+ - Range for theta1: [0, 20, 40, 60]; range for theta2: [-60, -40, -20, 0, 20, 40, 60].         
+ - Action for theta1, theta2: [-20, 20];   
+ - Action for gripper: [Open/0, Close/1];                    
+ - There are 8 (2* 2* 2) discrete action the agent can choose.     
 
 Action|theta1|theta2|Grip
 ----|----|----|----
