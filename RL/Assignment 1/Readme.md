@@ -2,7 +2,7 @@
 
 
  _________________________________
-## Robotic manipulator (a "robotic arm") engaged in a pick-and-place task.  
+## Robotic manipulator engaged in a pick-and-place task.  
 
  - We will consider the setting where a manipulator with two revolute joints and a two-fingered gripper is tasked with picking a bolt and inserting it into a hole in a metal sheet. 
 
