@@ -4,4 +4,4 @@
 Gradient clipping    
 Proper weight initialization (e.g., Kaiminginitialization)     
 Use regularization on the weights (magnitude and/or structure)      
-Use dropou     
+Use dropout     
