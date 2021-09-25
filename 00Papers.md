@@ -15,8 +15,16 @@
 - **NiN**[Lin et al., 2013] 
 - **GoogLeNet**[Szegedyet al., 2015] 
 - **ResNet**[He et al., 2016] 
-- **DenseNet**[Huang et al., 2017] 
-- **EfficientNet**[Tan and Le. 2019] 
+- **DenseNet**[Huang et al., 2017]  
+- **MnasNet**[Tan and et al. 2019] https://arxiv.org/abs/1807.11626
+- **EfficientNet**[Tan and Le. 2019] https://arxiv.org/pdf/1905.11946.pdf 
+
+## Neural Achitecture Search (NAS) 
+- Neural Architecture Search with Reinforcement Learning [Zophand Le 2017] https://arxiv.org/pdf/1611.01578.pdf 
+- Learning Transferable Architectures for Scalable Image Recognition [Zophet al. 2017] https://arxiv.org/pdf/1707.07012.pdf 
+- Deep Neural Architecture Search with Deep Graph Bayesian Optimization [Ma et al. 2019] https://arxiv.org/abs/1905.06159 
+- Graph Hypernetworks for Neural Architecture Search [Zhang et al. 2018] https://arxiv.org/abs/1810.05749 
+- MnasNet: Platform-Aware Neural Architecture Search for Mobile [Tan et al. 2019] https://arxiv.org/pdf/1807.11626.pdf 
 
 ## Recurrent Networks 
 - Bidirectional recurrent neural networks, IEEE Trans. Signal Processing, 1997 
