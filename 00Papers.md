@@ -9,13 +9,13 @@
 - Gradient Clipping, [Pascanuet al., 2013] https://arxiv.org/pdf/1211.5063.pdf 
 
 ## Convolutional Networks 
-- **LeNet**[LeCunet al. 1998]  
-- **AlexNet**[Krizhevskyet al., 2012] 
-- **VGG**[Simonyan& Zisserman, 2014] 
-- **NiN**[Lin et al., 2013] 
-- **GoogLeNet**[Szegedyet al., 2015] 
-- **ResNet**[He et al., 2016] 
-- **DenseNet**[Huang et al., 2017]  
+- **LeNet**[LeCunet al. 1998] http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf 
+- **AlexNet**[Krizhevskyet al., 2012] https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf 
+- **VGG**[Simonyan& Zisserman, 2014] https://arxiv.org/pdf/1409.1556.pdf 
+- **NiN**[Lin et al., 2013] https://arxiv.org/pdf/1312.4400.pdf 
+- **GoogLeNet**[Szegedyet al., 2015] https://arxiv.org/pdf/1409.4842.pdf 
+- **ResNet**[He et al., 2016] https://arxiv.org/pdf/1512.03385.pdf 
+- **DenseNet**[Huang et al., 2017] https://arxiv.org/pdf/1608.06993.pdf
 - **MnasNet**[Tan and et al. 2019] https://arxiv.org/abs/1807.11626
 - **EfficientNet**[Tan and Le. 2019] https://arxiv.org/pdf/1905.11946.pdf 
 
