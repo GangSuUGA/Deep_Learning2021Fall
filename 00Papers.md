@@ -1,4 +1,13 @@
-# Key Papers of Representation Learning 
+# Key Papers of Deep Learning 
+
+## BackPropagation 
+- RMSprop -Tieleman & Hinton [2012] https://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf 
+- Adam -Kingma& Ba [2015] https://arxiv.org/pdf/1412.6980.pdf 
+- Dropout: a simple way to prevent neural networks from overfitting, 2014. https://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf 
+- Kaiming Weight Initialization, 2015. https://arxiv.org/pdf/1502.01852v1.pdf 
+- Xavier Weight Initialization, 2010. https://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf 
+- Gradient Clipping, [Pascanuet al., 2013] https://arxiv.org/pdf/1211.5063.pdf 
+- 
 
 ## Subspace Learning 
 - Two-dimensional PCA: a new approach to appearance-based face representation and recognition. IEEE Trans. PAMI, 2004. 
