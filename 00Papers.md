@@ -8,6 +8,25 @@
 - Xavier Weight Initialization, 2010. https://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf 
 - Gradient Clipping, [Pascanuet al., 2013] https://arxiv.org/pdf/1211.5063.pdf 
 
+## Convolutional Networks 
+- **LeNet**[LeCunet al. 1998] Gradient-based learning applied to document recognition. Proceedings of the IEEE 
+- **AlexNet**[Krizhevskyet al., 2012] 
+- **VGG**[Simonyan& Zisserman, 2014] 
+- **NiN**[Lin et al., 2013] 
+- **GoogLeNet**[Szegedyet al., 2015] 
+- **ResNet**[He et al., 2016] 
+- **DenseNet**[Huang et al., 2017] 
+- **EfficientNet**[Tan and Le. 2019] 
+
+## Recurrent Networks 
+- Bidirectional recurrent neural networks, IEEE Trans. Signal Processing, 1997 
+- Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation, EMNLP 2014 
+- Hierarchical Attention Networks for Document Classification, ACL 2016 
+- Relational recurrent neural networks, NeurIPS 2018 
+- End-To-End Memory Networks, NIPS 2015 
+- Long-Term Recurrent Convolutional Networks for Visual Recognition and Description, IEEE Trans. PAMI, 2016 
+- Attention Is All You Need, NIPS 2017 
+- Understanding and Controlling Memory in Recurrent Neural Networks, ICML 2019 
 
 ## Subspace Learning 
 - Two-dimensional PCA: a new approach to appearance-based face representation and recognition. IEEE Trans. PAMI, 2004. 
@@ -21,28 +40,6 @@
 - Adaptive Manifold Learning, IEEE Trans. PAMI, 2011 
 - Robust Multiple Manifolds Structure Learning, ICML 2012 
 
-## Convolutional Networks 
-- ImageNet Classification with Deep Convolutional Neural Networks, NIPS 2012 
-- Very deep convolutional networks for large-scale image recognition, ICLR 2015 
-- Going Deeper with Convolutions, CVPR 2015 
-- Deep Residual Learning for Image Recognition, CVPR 2016 
-- Densely Connected Convolutional Networks, CVPR 2017 
-- Res2Net: A New Multi-scale Backbone Architecture, IEEE TPAMI, 2019 
-- Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, NIPS 2015 
-- Mask R-CNN, ICCV 2017 
-- Learning Spatiotemporal Features with 3D Convolutional Networks, ICCV 2015 
-- Xnor-net: Imagenet classification using binary convolutional neural networks, ECCV 2016 
-
-## Recurrent Networks 
-- Bidirectional recurrent neural networks, IEEE Trans. Signal Processing, 1997 
-- Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation, EMNLP 2014 
-- Hierarchical Attention Networks for Document Classification, ACL 2016 
-- Relational recurrent neural networks, NeurIPS 2018 
-- End-To-End Memory Networks, NIPS 2015 
-- Long-Term Recurrent Convolutional Networks for Visual Recognition and Description, IEEE Trans. PAMI, 2016 
-- Attention Is All You Need, NIPS 2017 
-- Understanding and Controlling Memory in Recurrent Neural Networks, ICML 2019 
-- 
 ## Deep Auto-Encoders 
 - Extracting and composing robust features with denoising autoencoders, ICML 2008 
 - k-Sparse Autoencoders, ICLR 2014 
