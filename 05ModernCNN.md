@@ -16,5 +16,5 @@
 - Graph Hypernetworks for Neural Architecture Search [Zhang et al. 2018] https://arxiv.org/abs/1810.05749 
 - MnasNet: Platform-Aware Neural Architecture Search for Mobile [Tan et al. 2019] https://arxiv.org/pdf/1807.11626.pdf 
 
-## Code 
+## Code for Modern CNN 
 - 
