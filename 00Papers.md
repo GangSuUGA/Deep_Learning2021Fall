@@ -7,7 +7,7 @@
 - Kaiming Weight Initialization, 2015. https://arxiv.org/pdf/1502.01852v1.pdf 
 - Xavier Weight Initialization, 2010. https://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf 
 - Gradient Clipping, [Pascanuet al., 2013] https://arxiv.org/pdf/1211.5063.pdf 
-- 
+
 
 ## Subspace Learning 
 - Two-dimensional PCA: a new approach to appearance-based face representation and recognition. IEEE Trans. PAMI, 2004. 
