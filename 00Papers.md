@@ -9,7 +9,7 @@
 - Gradient Clipping, [Pascanuet al., 2013] https://arxiv.org/pdf/1211.5063.pdf 
 
 ## Convolutional Networks 
-- **LeNet**[LeCunet al. 1998] Gradient-based learning applied to document recognition. Proceedings of the IEEE 
+- **LeNet**[LeCunet al. 1998]  
 - **AlexNet**[Krizhevskyet al., 2012] 
 - **VGG**[Simonyan& Zisserman, 2014] 
 - **NiN**[Lin et al., 2013] 
