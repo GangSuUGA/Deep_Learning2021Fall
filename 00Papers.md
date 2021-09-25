@@ -21,16 +21,6 @@
 - Adaptive Manifold Learning, IEEE Trans. PAMI, 2011 
 - Robust Multiple Manifolds Structure Learning, ICML 2012 
 
-## Deep Auto-Encoders 
-- Extracting and composing robust features with denoising autoencoders, ICML 2008 
-- k-Sparse Autoencoders, ICLR 2014 
-- Contractive Auto-Encoders: Explicit Invariance During Feature Extraction, ICML 2011 
-- Semi-Supervised Recursive Autoencoders for Predicting Sentiment Distributions, EMNLP 2011 
-- Auto-Encoding Variational Bayes, ICLR 2014 
-- Adversarial Auto-Encoders, 2016 
-- Semantic Autoencoder for Zero-Shot Learning, CVPR 2017 
-- Variational Autoencoders for Collaborative Filtering, WWW 2018 
-
 ## Convolutional Networks 
 - ImageNet Classification with Deep Convolutional Neural Networks, NIPS 2012 
 - Very deep convolutional networks for large-scale image recognition, ICLR 2015 
@@ -52,6 +42,16 @@
 - Long-Term Recurrent Convolutional Networks for Visual Recognition and Description, IEEE Trans. PAMI, 2016 
 - Attention Is All You Need, NIPS 2017 
 - Understanding and Controlling Memory in Recurrent Neural Networks, ICML 2019 
+- 
+## Deep Auto-Encoders 
+- Extracting and composing robust features with denoising autoencoders, ICML 2008 
+- k-Sparse Autoencoders, ICLR 2014 
+- Contractive Auto-Encoders: Explicit Invariance During Feature Extraction, ICML 2011 
+- Semi-Supervised Recursive Autoencoders for Predicting Sentiment Distributions, EMNLP 2011 
+- Auto-Encoding Variational Bayes, ICLR 2014 
+- Adversarial Auto-Encoders, 2016 
+- Semantic Autoencoder for Zero-Shot Learning, CVPR 2017 
+- Variational Autoencoders for Collaborative Filtering, WWW 2018 
 
 ## Aderversarial Networks 
 - Generative Adversarial Nets, NIPS 2014 
