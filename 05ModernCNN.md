@@ -18,3 +18,14 @@
 
 ## Code for Modern CNN 
 - 
+
+___________________________________________________
+
+## MnasNet: 
+- Challenge: designing a resourse-constrained mobile model has to carefully balance accuracy and resource-efficiency. 
+
+## Contributions: 
+- Introducing a multi-objective neural architecture search approach that optimize both accuracy and real-world latency on mobile devices. 
+- Proposing a novel factorized hierarchical search space to enable layer diversity yet still strike the right balance between flexibility and search space size. 
+- Demonstrating new state-of-the-art accuracy on both ImageNet classsification and COCO object detection under typical mobile latency constraints. 
+
