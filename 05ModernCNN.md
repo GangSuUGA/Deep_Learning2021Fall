@@ -17,7 +17,7 @@
 - MnasNet: Platform-Aware Neural Architecture Search for Mobile [Tan et al. 2019] https://arxiv.org/pdf/1807.11626.pdf 
 
 ## Code for Modern CNN 
-- 
+- [**Code**](https://github.com/GangSuUGA/Deep_Learning2021Fall/blob/main/Code/ModernCNNs.ipynb) 
 
 ___________________________________________________
 
