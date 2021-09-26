@@ -23,9 +23,18 @@ ___________________________________________________
 
 ## MnasNet: 
 - Challenge: designing a resourse-constrained mobile model has to carefully balance accuracy and resource-efficiency. 
+- Architecture:      
+![image](https://user-images.githubusercontent.com/88390140/134811481-567bf0d8-b94b-49d1-aa6c-d71459312433.png)
+
 
 ## Contributions: 
 - Introducing a multi-objective neural architecture search approach that optimize both accuracy and real-world latency on mobile devices. 
 - Proposing a novel factorized hierarchical search space to enable layer diversity yet still strike the right balance between flexibility and search space size. 
 - Demonstrating new state-of-the-art accuracy on both ImageNet classsification and COCO object detection under typical mobile latency constraints. 
+
+## Method: 
+![image](https://user-images.githubusercontent.com/88390140/134811181-a27b109e-6cf4-4174-9d84-2159511318a1.png) 
+![image](https://user-images.githubusercontent.com/88390140/134811183-b65c4439-36b1-4afb-9663-185d6f7edcb7.png)     
+
+
 
