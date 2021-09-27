@@ -10,7 +10,12 @@
 - YOLO v2 [Redmon and Farhadi, 2016] https://arxiv.org/pdf/1612.08242.pdf 
 - YOLO v3 [Redmon and Farhadi, 2018] https://arxiv.org/pdf/1804.02767.pdf 
 - YOLO v4 [Bochkovskiyet al., 2020] https://arxiv.org/pdf/2004.10934.pdf 
-- 
+
+## Tutorial videos: 
+- https://www.youtube.com/watch?v=M1mN03REGU8
 _______________________________________________________________
 
+![image](https://user-images.githubusercontent.com/88390140/134997085-3d722b69-e0ff-46b5-98bc-6bd7bfbf884a.png)
 
+![image](https://user-images.githubusercontent.com/88390140/134997602-ea3c78aa-7088-4b3c-b79a-62889b928bdb.png)
+![image](https://user-images.githubusercontent.com/88390140/134997896-aa57a4bc-0d7f-460a-9f09-99c0efb8f889.png)
