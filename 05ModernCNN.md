@@ -34,7 +34,7 @@ ___________________________________________________
 
 ## Method: 
 ![image](https://user-images.githubusercontent.com/88390140/134811181-a27b109e-6cf4-4174-9d84-2159511318a1.png) 
-![image](https://user-images.githubusercontent.com/88390140/134811183-b65c4439-36b1-4afb-9663-185d6f7edcb7.png)     
+![image](https://user-images.githubusercontent.com/88390140/134811183-b65c4439-36b1-4afb-9663-185d6f7edcb7.png) Reinforcement Learning           
 
 
 
