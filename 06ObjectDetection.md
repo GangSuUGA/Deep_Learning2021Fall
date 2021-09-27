@@ -12,7 +12,7 @@
 - YOLO v4 [Bochkovskiyet al., 2020] https://arxiv.org/pdf/2004.10934.pdf 
 
 ## Tutorial videos: 
-- https://www.youtube.com/watch?v=M1mN03REGU8 (**Figures Below From This Video**)
+- :star::star::star::star::star:**https://www.youtube.com/watch?v=M1mN03REGU8**  (**Figures Below From This Video**)
 _______________________________________________________________
 
 ![image](https://user-images.githubusercontent.com/88390140/134997085-3d722b69-e0ff-46b5-98bc-6bd7bfbf884a.png)
