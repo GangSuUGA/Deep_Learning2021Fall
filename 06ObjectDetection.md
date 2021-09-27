@@ -12,10 +12,14 @@
 - YOLO v4 [Bochkovskiyet al., 2020] https://arxiv.org/pdf/2004.10934.pdf 
 
 ## Tutorial videos: 
-- https://www.youtube.com/watch?v=M1mN03REGU8
+- https://www.youtube.com/watch?v=M1mN03REGU8 (**Figures Below From This Video**)
 _______________________________________________________________
 
 ![image](https://user-images.githubusercontent.com/88390140/134997085-3d722b69-e0ff-46b5-98bc-6bd7bfbf884a.png)
 
+## R-CNN
+
 ![image](https://user-images.githubusercontent.com/88390140/134997602-ea3c78aa-7088-4b3c-b79a-62889b928bdb.png)
 ![image](https://user-images.githubusercontent.com/88390140/134997896-aa57a4bc-0d7f-460a-9f09-99c0efb8f889.png)
+![image](https://user-images.githubusercontent.com/88390140/134998108-e2ad3721-fa26-4f0f-85b0-641e772c9427.png)
+![image](https://user-images.githubusercontent.com/88390140/134998130-b26e2e17-4901-413f-bcdc-1e2f14dbbcc8.png)
