@@ -15,7 +15,7 @@ ________________________________________________________________________________
 
 This is my class note about 2021 Fall Course "Deep Learning" taught by my major professor,  
 
-J. James Yang, Ph.D., P.E. 
+【J. James Yang】（https://engineering.uga.edu/people/profile/jidong-yang-ph.d）, Ph.D., P.E. 
 
 Associate Professor 
 
