@@ -25,3 +25,7 @@ _____________________________________
 
 ## Value Iteration 
 - The basic idea is to calculate the utility of each state and then use the state utilities to select an optimal action in each state.
+**Bellman Equation**: 
+![image](https://user-images.githubusercontent.com/88390140/136814713-21a0509c-143f-4593-a600-84042141e8ce.png)
+![image](https://user-images.githubusercontent.com/88390140/136814806-48409a8b-d5c9-462b-ae64-91f21dc01940.png)
+- If there are n possible states, then there are n Bellman equations, one for each state. 
