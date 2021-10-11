@@ -29,3 +29,36 @@ _____________________________________
 ![image](https://user-images.githubusercontent.com/88390140/136814713-21a0509c-143f-4593-a600-84042141e8ce.png)
 ![image](https://user-images.githubusercontent.com/88390140/136814806-48409a8b-d5c9-462b-ae64-91f21dc01940.png)
 - If there are n possible states, then there are n Bellman equations, one for each state. 
+- There is one problem: the equations are nonlinear, because the “max” operator is not a linear operator. 
+- Whereas systems of linear equations can be solved quickly using linear algebra techniques, systems of nonlinear equations are more problematic. One thing to try is an iterative approach. 
+- We repeat this until we reach an equilibrium. Let Ui(s) be the utility value for state s at the ith iteration. The iteration step, called a **Bellman update**, looks like this:
+![image](https://user-images.githubusercontent.com/88390140/136816884-8fe1926a-8c67-4b39-8973-17aa37de7edb.png)
+
+
+![image](https://user-images.githubusercontent.com/88390140/136816362-98fa1e3e-8328-4a92-9284-e1ced9ad2da2.png)
+![image](https://user-images.githubusercontent.com/88390140/136816559-e6f43359-ac3c-4387-8091-85123f21516f.png)
+- We can think of the value iteration algorithm as propagating information through the state space by means of local updates. 
+
+## Why Value Iteration Convergence? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
