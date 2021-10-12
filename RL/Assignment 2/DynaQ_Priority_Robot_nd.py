@@ -100,16 +100,13 @@ class DynaQ():
 
     def Add(self, TD, old_state, action, reward, state,theta): 
         if TD > theta: 
-            if len(self.PQ) > 0:
-                for i in range(len(self.PQ)): 
+            for i in range(len(self.PQ)):  
 
-                    if (old_state, action, reward, state) == self.PQ[i][1]: 
-                        self.PQ[i][0] = TD 
-                    else: 
-                        self.PQ += tuple([[TD, (old_state, action, reward, state)]]) 
-                        self.PQ.sort(reverse=True) 
-            else: 
-                self.PQ += tuple([[TD, (old_state, action, reward, state)]]) 
+                if (old_state, action, reward, state) == self.PQ[i][1]: 
+                    self.PQ[i][0] = TD 
+                else: 
+                    self.PQ += tuple([[TD, (old_state, action, reward, state)]]) 
+                    self.PQ.sort(reverse=True) 
                 
                 
 episodes = 50

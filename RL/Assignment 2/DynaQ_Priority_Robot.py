@@ -64,6 +64,7 @@ class DynaQ():
                 _old_state = self.PQ[0][1][0] 
                 _action = self.PQ[0][1][1] 
                 del self.PQ[0]
+                
                 _reward, _state = self.Model[tuple(_old_state)][_action] 
                 self.Q_learn(_old_state, _action, _reward, _state)
                 for _action in range(self.num_a):
@@ -74,16 +75,12 @@ class DynaQ():
                         
     def Add(self, TD, old_state, action, reward, state,theta): 
         if TD > theta: 
-            if len(self.PQ) > 0:
-                for i in range(len(self.PQ)): 
-
-                    if (old_state, action, reward, state) == self.PQ[i][1]: 
-                        self.PQ[i][0] = TD 
-                    else: 
-                        self.PQ += tuple([[TD, (old_state, action, reward, state)]]) 
-                        self.PQ.sort(reverse=True) 
-            else: 
-                self.PQ += tuple([[TD, (old_state, action, reward, state)]]) 
+            for i in range(len(self.PQ)): 
+                if (old_state, action, reward, state) == self.PQ[i][1]: 
+                    self.PQ[i][0] = TD 
+                else: 
+                    self.PQ += tuple([[TD, (old_state, action, reward, state)]])
+                self.PQ.sort(reverse=True)
 
         
 
