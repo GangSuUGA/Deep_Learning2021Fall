@@ -1,5 +1,5 @@
 ## Running the algorithm: 
-1. Clone or download the repo (Link: https://github.com/GangSuUGA/Deep_Learning2021Fall/tree/main/RL/Assignment%201).
+1. Clone or download the repo (Link: https://github.com/GangSuUGA/Deep_Learning2021Fall/tree/main/RL/Assignment%202).
 2. Using the Anaconda prompt or any other terminal, navigate to the root folder and run the file Validate.py by executing: 
 
 ```
