@@ -1,5 +1,9 @@
  - This is my class note about 2021 Fall Course "Reinforcement Learning" taught by Professor [Prashant Doshi](https://www.cs.uga.edu/directory/people/prashant-doshi),
 
+## Some videos about MARL: 
+- https://www.youtube.com/watch?v=a3tDo6Aof_k
+- https://www.youtube.com/watch?v=P4LH020ON3A
+
 ## Deep Transfer Learning / Lifelong Learning / especially for RL
 
 - Bengio, Yoshua. "**Deep Learning of Representations for Unsupervised and Transfer Learning**." ICML Unsupervised and Transfer Learning 27 (2012): 17-36. [[pdf]](http://www.jmlr.org/proceedings/papers/v27/bengio12a/bengio12a.pdf) **(A Tutorial)** :star::star::star:
