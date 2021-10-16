@@ -40,7 +40,16 @@ _____________________________________
 - We can think of the value iteration algorithm as propagating information through the state space by means of local updates. 
 
 ## Why Value Iteration Convergence? 
+![image](https://user-images.githubusercontent.com/88390140/137592415-7b16fb9c-4006-429e-ad1d-63bfe7ab4b77.png)
+![image](https://user-images.githubusercontent.com/88390140/137592526-842d8cb8-6af5-4246-a6d8-f04fc23bd10d.png)
+![image](https://user-images.githubusercontent.com/88390140/137592529-edbdb29c-1534-4aef-ab91-741b6ab0f56b.png)
+![image](https://user-images.githubusercontent.com/88390140/137592535-a7c3ca7b-4fb3-4160-b493-a43673c2e3fb.png)
+![image](https://user-images.githubusercontent.com/88390140/137592565-667b12cc-1754-4313-b434-f6a9b2193c5e.png)
 
+
+## We can use Lagrange Mean Value to proof Contraction Mapping: 
+![image](https://user-images.githubusercontent.com/88390140/137593362-e57d3abe-c276-4671-93cd-6d81873f1748.png)
+![image](https://user-images.githubusercontent.com/88390140/137593370-facfacc9-7919-4281-8211-f95d506c29bc.png)
 
 
 
