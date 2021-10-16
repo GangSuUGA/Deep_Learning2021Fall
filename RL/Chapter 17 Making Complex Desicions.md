@@ -54,6 +54,16 @@ _____________________________________
 ![image](https://user-images.githubusercontent.com/88390140/137593370-facfacc9-7919-4281-8211-f95d506c29bc.png)
 
 ## Policy Iteration 
+- In the previous section, we observed that it is possible to get an optimal policy even when the utility function estimate is inaccurate. 
+- If one action is clearly better than all others, then the exact magnitude of the utilities on the states involved need not be precise. 
+- This insight suggests an alternative way to find optimal policies. 
+
+![image](https://user-images.githubusercontent.com/88390140/137598659-92828a4f-eaf3-4661-b69f-c75d9f34a907.png)
+![image](https://user-images.githubusercontent.com/88390140/137598719-dc63042c-7b9e-4d4a-8862-d1612f68423b.png)
+![image](https://user-images.githubusercontent.com/88390140/137598753-702f52a6-9778-40cc-8059-5802d5f4f3c7.png)
+![image](https://user-images.githubusercontent.com/88390140/137598775-7c4f6cd2-e3cd-4a4b-bb92-adf2f9dd6f18.png)
+
+
 
  
 
