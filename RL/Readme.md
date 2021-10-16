@@ -1,5 +1,5 @@
  - This is my class note about 2021 Fall Course "**Reinforcement Learning**" taught by Professor [Prashant Doshi](https://www.cs.uga.edu/directory/people/prashant-doshi)
- - Sutton, Richard S. and Andrew G. Barto. **Reinforcement Learning: An Introduction.** :star: :star: :star: :star: :star: 
+ - Sutton, Richard S. and Andrew G. Barto. [**Reinforcement Learning: An Introduction.**](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf) :star: :star: :star: :star: :star: 
  - [**Key Papers in Deep RL**](https://spinningup.openai.com/en/latest/spinningup/keypapers.html) :star: :star: :star: :star: :star:  
  - Russell, Stuart J. and Peter Norvig. **Artificial Intelligence: A Modern Approach.**  
 
