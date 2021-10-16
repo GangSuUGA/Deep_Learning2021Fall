@@ -1,6 +1,6 @@
 # Learning "Deep Learning" deeper.     
 
- - **"Machine Learning" is machine learning**. We human need to learning from "Mechine Learning":     
+ - **"Machine Learning" is machine learning**. We human need learning from "Mechine Learning":     
 ![image](https://user-images.githubusercontent.com/88390140/132099012-756e24ed-18d9-4462-9409-9dcd33a0fb54.png)     
  
 ![image](https://user-images.githubusercontent.com/88390140/132099098-1e32bce4-c0b3-4763-9b7a-7610f5f21f51.png)     
