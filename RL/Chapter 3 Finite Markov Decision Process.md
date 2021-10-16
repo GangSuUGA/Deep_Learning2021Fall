@@ -12,7 +12,22 @@ __________________________________________________________________
 
 **Agent tries to learn a policy/decision for each states from interactions to acieve a goal.** 
 
-- Trajectory: 
+- Trajectory:                
 ![image](https://user-images.githubusercontent.com/88390140/137599496-eb65d7aa-1362-439b-9f80-a35d56231967.png)
 
-- 
+- The function p defines the dynamics of the MDP:                    
+![image](https://user-images.githubusercontent.com/88390140/137599633-f1db795e-efcd-4e11-b164-2defd5fc8aff.png)                    
+![image](https://user-images.githubusercontent.com/88390140/137599647-2da0a204-a584-4dc8-bb3f-5409f43d273e.png)
+
+- **MDP Assumption**: p, the dynamic or the probability of each possible value for St and Rt depends only on the immediately preceding state and action, St1 and At1, not at all on earlier states and actions.  
+- **MDP Property**: The state must include information about all aspects of the past interactive information. 
+
+- **State Transition Probability**:                        
+![image](https://user-images.githubusercontent.com/88390140/137599916-21a1769e-b58b-4692-96a1-c6ca1c48607b.png)
+
+- **Expected Rewards**:                   
+![image](https://user-images.githubusercontent.com/88390140/137599936-2afa37a5-1b11-4220-9253-274582fb79da.png)            
+![image](https://user-images.githubusercontent.com/88390140/137599950-2d49632d-8276-4802-95fe-1c730fc61cc9.png)
+
+
+- **
