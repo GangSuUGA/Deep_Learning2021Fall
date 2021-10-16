@@ -3,6 +3,7 @@
  - Russell, Stuart J. and Peter Norvig. **Artificial Intelligence: A Modern Approach.**  
 
 ____________________________________________________
+# Review of RL
 
 **1. Introduction to RL**                    (Chapter 1 of S&B and Chapter 2 of R&N)                    
    - a. What is RL? Reward hypothesis and exploration-exploitation tradeoff :star:                   
