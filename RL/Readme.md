@@ -1,5 +1,5 @@
  - This is my class note about 2021 Fall Course "**Reinforcement Learning**" taught by Professor [Prashant Doshi](https://www.cs.uga.edu/directory/people/prashant-doshi)
- - Sutton, Richard S. and Andrew G. Barto. “**Reinforcement Learning: An Introduction.**” IEEE Transactions on Neural Networks 16 (2005): 285-286. 
+ - Sutton, Richard S. and Andrew G. Barto. “**Reinforcement Learning: An Introduction.**” IEEE Transactions on Neural Networks 16 (2005): 285-286. :star: :star: :star: :star: :star:
  - Russell, Stuart J. and Peter Norvig. “**Artificial Intelligence: A Modern Approach.**” (1995). 
 
 ____________________________________________________
