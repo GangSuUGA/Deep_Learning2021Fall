@@ -40,7 +40,9 @@ _____________________________________
 - We can think of the value iteration algorithm as propagating information through the state space by means of local updates. 
 
 ## Why Value Iteration Convergence? 
-![image](https://user-images.githubusercontent.com/88390140/137592415-7b16fb9c-4006-429e-ad1d-63bfe7ab4b77.png)
+- The basic concept used in showing that value iteration converges is the notion of a contraction. 
+- Two important properties of contraction: 
+![image](https://user-images.githubusercontent.com/88390140/137593624-8f287ce4-f401-4a87-9f00-4b2d296d57f6.png)
 ![image](https://user-images.githubusercontent.com/88390140/137592526-842d8cb8-6af5-4246-a6d8-f04fc23bd10d.png)
 ![image](https://user-images.githubusercontent.com/88390140/137592529-edbdb29c-1534-4aef-ab91-741b6ab0f56b.png)                           
 ![image](https://user-images.githubusercontent.com/88390140/137592535-a7c3ca7b-4fb3-4160-b493-a43673c2e3fb.png)  (since Contraction Mapping)              
