@@ -29,5 +29,42 @@ __________________________________________________________________
 ![image](https://user-images.githubusercontent.com/88390140/137599936-2afa37a5-1b11-4220-9253-274582fb79da.png)            
 ![image](https://user-images.githubusercontent.com/88390140/137599950-2d49632d-8276-4802-95fe-1c730fc61cc9.png)
 
+- Some actions might control what an agent chooses to think about, or where it focuses its attention. 
+- In general, actions can be any decisions we want to learn how to make, and the states can be anything we can know that might be useful in making them.         
 
-- **
+![image](https://user-images.githubusercontent.com/88390140/137600508-8b8db77f-3fa8-4d23-a567-133ece32ea32.png)             
+   
+![image](https://user-images.githubusercontent.com/88390140/137600610-79cf207e-d402-442d-87ac-0650e5742338.png)       
+  
+![image](https://user-images.githubusercontent.com/88390140/137600645-d25a2a9d-992a-4ed4-8c62-1c8e8dc2ca38.png)          
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
