@@ -11,5 +11,4 @@ ___________________________________________
 ![image](https://user-images.githubusercontent.com/88390140/137602196-d4f065cf-48de-4a4c-864d-e42eb5cf875f.png)
 ![image](https://user-images.githubusercontent.com/88390140/137602209-d54e20da-a422-430c-a360-624708ab9e0a.png)
 
-
-
+## Neural Differential Equations 
