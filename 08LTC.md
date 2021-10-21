@@ -12,3 +12,7 @@ ___________________________________________
 ![image](https://user-images.githubusercontent.com/88390140/137602209-d54e20da-a422-430c-a360-624708ab9e0a.png)
 
 ## Neural Differential Equations 
+- ResNet 
+![image](https://user-images.githubusercontent.com/88390140/138193197-c754cd85-fcbb-4e7c-a44b-f5dd7945797f.png)
+- ODE 
+![image](https://user-images.githubusercontent.com/88390140/138193229-163b6ff8-a8c7-4f7b-8a8a-703b0b512dd0.png)
