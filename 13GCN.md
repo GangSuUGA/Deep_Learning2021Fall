@@ -35,4 +35,20 @@ ________________________________________
 ![image](https://user-images.githubusercontent.com/88390140/139562030-6bffc7f0-e964-4a90-9a48-a54ced64ad25.png)
 ![image](https://user-images.githubusercontent.com/88390140/139562564-5903c26d-92b2-4314-80c1-437405306d1d.png)
 
-- 
+- Laplace Operator:            
+![image](https://user-images.githubusercontent.com/88390140/139562586-b64e6c50-9e04-48e6-b877-e4233c6edc2a.png)
+
+![image](https://user-images.githubusercontent.com/88390140/139562610-20b5bb44-30e6-46a2-b41e-b35ac2a30857.png)
+![image](https://user-images.githubusercontent.com/88390140/139562612-db19f3e6-dc8d-455d-a5c7-78fc5d978ed0.png)
+![image](https://user-images.githubusercontent.com/88390140/139562619-b6f5e348-c4f7-4dfc-9c85-9fd192a01e85.png)
+![image](https://user-images.githubusercontent.com/88390140/139562624-5f3d1dc4-4eb3-437c-9203-0f089f292fa2.png)
+
+
+
+
+
+
+
+
+
+
