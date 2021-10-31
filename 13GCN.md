@@ -8,10 +8,11 @@
 
 ________________________________________ 
 ## Spectral Approaches (GCN) 
-
-Convolution: 
+Fourier:     
 ![image](https://user-images.githubusercontent.com/88390140/139561716-ca7eff89-d25d-42a1-8a8f-3e6e647f7492.png)
 
+Inverse Fourier:     
+![image](https://user-images.githubusercontent.com/88390140/139561725-a5d91c71-fbf1-4acc-b4db-d54a991477b8.png)
 
 
 
