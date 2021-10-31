@@ -85,6 +85,8 @@ ________________________________________
 ## GCN 
 ![image](https://user-images.githubusercontent.com/88390140/139564235-b63ccc46-65ad-4fa2-9212-4296739cb71e.png)
 ![image](https://user-images.githubusercontent.com/88390140/139564246-c452259e-f79f-4852-9a99-1e1edb2dbf96.png)
+![image](https://user-images.githubusercontent.com/88390140/139564359-c37341d5-d001-4549-b19c-622bb91ccb0e.png)
+![image](https://user-images.githubusercontent.com/88390140/139564366-56b208f4-e6f8-48a5-a13a-bbaf681e50aa.png)
 
 
 
