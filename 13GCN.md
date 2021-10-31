@@ -67,7 +67,7 @@ ________________________________________
 # GCN 
 ![image](https://user-images.githubusercontent.com/88390140/139563518-e74c75f4-e44c-4d84-9315-f6430810ee65.png)
 
-- SCNN  
+## SCNN  
 ![image](https://user-images.githubusercontent.com/88390140/139563700-0e745099-e42f-44c9-8ecd-c5a5cf257916.png)
 ![image](https://user-images.githubusercontent.com/88390140/139563800-57780c47-f400-434b-9ef3-f74aa84f7770.png)
 
@@ -76,12 +76,15 @@ ________________________________________
 - Overfit easily. 
 - Cannot connect locally. 
 
-### ChebNet 
+## ChebNet 
 ![image](https://user-images.githubusercontent.com/88390140/139563964-e6718f0f-a18d-438c-88c9-8bfa50a1af30.png)
 ![image](https://user-images.githubusercontent.com/88390140/139563968-42048973-2fd0-4e79-bf63-4e2ae5e81235.png)
 ![image](https://user-images.githubusercontent.com/88390140/139564019-a8e38108-d241-4436-93a4-8bba72a79aa9.png)
 ![image](https://user-images.githubusercontent.com/88390140/139564103-bc303312-ed6e-4c31-8c1b-b546e932bb25.png)
 
+## GCN 
+![image](https://user-images.githubusercontent.com/88390140/139564235-b63ccc46-65ad-4fa2-9212-4296739cb71e.png)
+![image](https://user-images.githubusercontent.com/88390140/139564246-c452259e-f79f-4852-9a99-1e1edb2dbf96.png)
 
 
 
