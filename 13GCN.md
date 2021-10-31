@@ -31,8 +31,8 @@ ________________________________________
 ![image](https://user-images.githubusercontent.com/88390140/139562701-79ef4050-7603-4501-9362-3a3faa72da92.png)
 
 - Eigen Decomposition or Spectral Decomposition: 
-![image](https://user-images.githubusercontent.com/88390140/139562030-6bffc7f0-e964-4a90-9a48-a54ced64ad25.png)
-![image](https://user-images.githubusercontent.com/88390140/139562564-5903c26d-92b2-4314-80c1-437405306d1d.png)![image](https://user-images.githubusercontent.com/88390140/139563215-938fde2b-1c1a-47e6-b0c7-eab1a0b60637.png)
+![image](https://user-images.githubusercontent.com/88390140/139563236-f3f6c0a8-81f6-4488-8dd6-2b01ef955424.png)
+![image](https://user-images.githubusercontent.com/88390140/139563248-c121db02-c02d-428b-b31f-e6c250e13e2e.png)![image](https://user-images.githubusercontent.com/88390140/139563215-938fde2b-1c1a-47e6-b0c7-eab1a0b60637.png)
 
 
 - Laplace Operator:            
