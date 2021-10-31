@@ -74,5 +74,14 @@ ________________________________________
 **Drawback**: 
 - With the increase of node, the complexity of solve U will be rised enormously. (Complexity = O^3) 
 - Overfit easily. 
+- Cannot connect locally. 
+
+### ChebNet 
+![image](https://user-images.githubusercontent.com/88390140/139563964-e6718f0f-a18d-438c-88c9-8bfa50a1af30.png)
+![image](https://user-images.githubusercontent.com/88390140/139563968-42048973-2fd0-4e79-bf63-4e2ae5e81235.png)
+
+
+
+
 
 
