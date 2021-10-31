@@ -46,8 +46,10 @@ ________________________________________
 ![image](https://user-images.githubusercontent.com/88390140/139562751-6f32f899-0220-4a96-b9fb-06bb76f4c8d1.png)
 
 
+## Graph Fourier Transformer 
+![image](https://user-images.githubusercontent.com/88390140/139562793-7181f9b2-9318-4579-9149-7c1e3ace399e.png)
 
-
+![image](https://user-images.githubusercontent.com/88390140/139562820-554ba677-0823-4abe-be3d-e9fb262705c4.png)
 
 
 
