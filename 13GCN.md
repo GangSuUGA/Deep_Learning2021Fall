@@ -31,4 +31,6 @@ ________________________________________
 - L Matrix positive semidifinite proof:
 ![image](https://user-images.githubusercontent.com/88390140/139561992-883c60d2-8075-4c2a-bc67-b6924356f0e4.png)
 
+- Eigen Decomposition or Spectral Decomposition: 
+![image](https://user-images.githubusercontent.com/88390140/139562030-6bffc7f0-e964-4a90-9a48-a54ced64ad25.png)
 
