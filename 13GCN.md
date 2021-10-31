@@ -1,5 +1,9 @@
 ## Resourse 
 - ![image](https://user-images.githubusercontent.com/88390140/139561763-0e42054f-d768-4ca9-8186-822e9ed32b01.png)
+#### Graph convolutional networks - K_GCN in basic_structure.py
+- Kipf, Thomas N., and Max Welling. ["Semi-Supervised Classification with Graph Convolutional Networks."](https://arxiv.org/pdf/1609.02907.pdf) (ICLR 2016).
+#### Chebynet - C_GCN
+- Micha ̈el Defferrard, Xavier Bresson, and Pierre Vandergheynst. ["Convolutional neural networks ongraphs with fast localized spectral filtering."](http://papers.nips.cc/paper/6081-convolutional-neural-networks-on-graphs-with-fast-localized-spectral-filtering.pdf) (NIPS 2016).
 
 ———————————————————————————————————————————————— 
 ## Motivation 
