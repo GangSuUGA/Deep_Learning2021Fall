@@ -79,6 +79,7 @@ ________________________________________
 ### ChebNet 
 ![image](https://user-images.githubusercontent.com/88390140/139563964-e6718f0f-a18d-438c-88c9-8bfa50a1af30.png)
 ![image](https://user-images.githubusercontent.com/88390140/139563968-42048973-2fd0-4e79-bf63-4e2ae5e81235.png)
+![image](https://user-images.githubusercontent.com/88390140/139564019-a8e38108-d241-4436-93a4-8bba72a79aa9.png)
 
 
 
