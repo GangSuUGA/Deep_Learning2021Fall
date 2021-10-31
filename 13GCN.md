@@ -1,3 +1,9 @@
+## Resourse: 
+- ![image](https://user-images.githubusercontent.com/88390140/139561763-0e42054f-d768-4ca9-8186-822e9ed32b01.png)
+
+
+———————————————————————————————————————————————— 
+
 🥋 CNN is limited to learn complex spatio-related feature. 
 ![image](https://user-images.githubusercontent.com/88390140/139561689-1c0aba95-96f9-429e-b6f7-b3947c007bcf.png)
 
@@ -14,6 +20,7 @@ Fourier:
 Inverse Fourier:     
 ![image](https://user-images.githubusercontent.com/88390140/139561725-a5d91c71-fbf1-4acc-b4db-d54a991477b8.png)
 
+![image](https://user-images.githubusercontent.com/88390140/139561747-403fa685-d1a9-4b79-bdb3-3de45c153f1e.png)
 
 
 
