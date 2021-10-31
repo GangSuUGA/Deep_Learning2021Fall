@@ -28,7 +28,7 @@ ________________________________________
 # Background 
 ![image](https://user-images.githubusercontent.com/88390140/139561984-032dd72b-b0a6-4b94-b9f3-cc0f4f8ea5bd.png)
 
-- positive semi difinite proof:
+- L Matrix positive semidifinite proof:
 ![image](https://user-images.githubusercontent.com/88390140/139561992-883c60d2-8075-4c2a-bc67-b6924356f0e4.png)
 
 
