@@ -67,5 +67,7 @@ ________________________________________
 # GCN 
 ![image](https://user-images.githubusercontent.com/88390140/139563518-e74c75f4-e44c-4d84-9315-f6430810ee65.png)
 
+- SCNN  
+![image](https://user-images.githubusercontent.com/88390140/139563700-0e745099-e42f-44c9-8ecd-c5a5cf257916.png)
 
 
