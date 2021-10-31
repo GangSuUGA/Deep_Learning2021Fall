@@ -64,5 +64,8 @@ ________________________________________
 ![image](https://user-images.githubusercontent.com/88390140/139563406-da3dc2c6-ac50-4ba4-913f-f3c3997833ac.png)
 ![image](https://user-images.githubusercontent.com/88390140/139563452-6238b6ee-49f9-493b-8fda-948eed49f065.png)
 
+# GCN 
+![image](https://user-images.githubusercontent.com/88390140/139563518-e74c75f4-e44c-4d84-9315-f6430810ee65.png)
+
 
 
