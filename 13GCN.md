@@ -33,4 +33,6 @@ ________________________________________
 
 - Eigen Decomposition or Spectral Decomposition: 
 ![image](https://user-images.githubusercontent.com/88390140/139562030-6bffc7f0-e964-4a90-9a48-a54ced64ad25.png)
+![image](https://user-images.githubusercontent.com/88390140/139562564-5903c26d-92b2-4314-80c1-437405306d1d.png)
 
+- 
