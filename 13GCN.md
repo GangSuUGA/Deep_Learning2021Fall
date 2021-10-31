@@ -41,6 +41,8 @@ ________________________________________
 ![image](https://user-images.githubusercontent.com/88390140/139562612-db19f3e6-dc8d-455d-a5c7-78fc5d978ed0.png)
 ![image](https://user-images.githubusercontent.com/88390140/139562654-325e5495-a997-4221-8c93-96a25f5ff9ab.png)
 
+- Weighted: 
+![image](https://user-images.githubusercontent.com/88390140/139562735-247cb04a-c17c-44c6-ae65-85a956dc8f7c.png)
 
 
 
