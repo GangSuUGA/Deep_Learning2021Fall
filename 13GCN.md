@@ -69,5 +69,10 @@ ________________________________________
 
 - SCNN  
 ![image](https://user-images.githubusercontent.com/88390140/139563700-0e745099-e42f-44c9-8ecd-c5a5cf257916.png)
+![image](https://user-images.githubusercontent.com/88390140/139563800-57780c47-f400-434b-9ef3-f74aa84f7770.png)
+
+**Drawback**: 
+- With the increase of node, the complexity of solve U will be rised enormously. (Complexity = O^3) 
+- Overfit easily. 
 
 
