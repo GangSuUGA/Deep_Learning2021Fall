@@ -4,8 +4,7 @@
 ———————————————————————————————————————————————— 
 ## Motivation 
 🥋 CNN is limited to learn complex spatio-related feature. 
-![image](https://user-images.githubusercontent.com/88390140/139561689-1c0aba95-96f9-429e-b6f7-b3947c007bcf.png)
-
+![image](https://user-images.githubusercontent.com/88390140/139562688-78a22750-938b-4d3f-b391-d0641b4a20c6.png)
 - Improvement of CNN:          
 🍮 Let filter kernel more flexbile and learnable to the dynamic varability of data. 
 
@@ -29,7 +28,7 @@ ________________________________________
 ![image](https://user-images.githubusercontent.com/88390140/139561984-032dd72b-b0a6-4b94-b9f3-cc0f4f8ea5bd.png)
 
 - L Matrix positive semidifinite proof:
-![image](https://user-images.githubusercontent.com/88390140/139561992-883c60d2-8075-4c2a-bc67-b6924356f0e4.png)
+![image](https://user-images.githubusercontent.com/88390140/139562701-79ef4050-7603-4501-9362-3a3faa72da92.png)
 
 - Eigen Decomposition or Spectral Decomposition: 
 ![image](https://user-images.githubusercontent.com/88390140/139562030-6bffc7f0-e964-4a90-9a48-a54ced64ad25.png)
@@ -40,8 +39,7 @@ ________________________________________
 
 ![image](https://user-images.githubusercontent.com/88390140/139562610-20b5bb44-30e6-46a2-b41e-b35ac2a30857.png)
 ![image](https://user-images.githubusercontent.com/88390140/139562612-db19f3e6-dc8d-455d-a5c7-78fc5d978ed0.png)
-![image](https://user-images.githubusercontent.com/88390140/139562619-b6f5e348-c4f7-4dfc-9c85-9fd192a01e85.png)
-![image](https://user-images.githubusercontent.com/88390140/139562624-5f3d1dc4-4eb3-437c-9203-0f089f292fa2.png)
+![image](https://user-images.githubusercontent.com/88390140/139562654-325e5495-a997-4221-8c93-96a25f5ff9ab.png)
 
 
 
