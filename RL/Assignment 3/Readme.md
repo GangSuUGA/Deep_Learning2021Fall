@@ -15,453 +15,113 @@ python Robotic_Manipulation.py
 
 
 ## CartPole_v1: 
+![image](https://user-images.githubusercontent.com/88390140/143988833-63a6e3a5-a4b4-4d26-92bd-fcb506ec3826.png)
+
+![image](https://user-images.githubusercontent.com/88390140/143988699-f7036885-5807-4371-a36b-75b45f90e381.png)
 
 
-## Robot: 
-Episode:1 Score:-1593
-Episode:2 Score:-31266
-Episode:3 Score:-10807
-Episode:4 Score:-5275
-Episode:5 Score:-14320
-Episode:6 Score:-25607
-Episode:7 Score:-16770
-Episode:8 Score:-8079
-Episode:9 Score:-19692
-Episode:10 Score:-540
-Episode:11 Score:-55161
-Episode:12 Score:-193853
-Episode:13 Score:-133307
-Episode:14 Score:-52710
-Episode:15 Score:-6401
-Episode:16 Score:-30669
-Episode:17 Score:-71330
-Episode:18 Score:-50203
-Episode:19 Score:-1540
-Episode:20 Score:-171507
-Episode:21 Score:-13554
-Episode:22 Score:-874
-Episode:23 Score:-23753
-Episode:24 Score:-77233
-Episode:25 Score:-127035
-Episode:26 Score:-10398
-Episode:27 Score:-8263
-Episode:28 Score:-166281
-Episode:29 Score:-85860
-Episode:30 Score:-15678
-Episode:31 Score:-5519
-Episode:32 Score:-58494
-Episode:33 Score:-181159
-Episode:34 Score:-75920
-Episode:35 Score:-371638
-Episode:36 Score:-87393
-Episode:37 Score:-104978
-Episode:38 Score:-186946
-... No Convergence 
+## MountainCar-v0: 
+![image](https://user-images.githubusercontent.com/88390140/143988846-61764584-828a-4212-9247-efc806666688.png)
 
-## DynaQ_CartPole-v1
-Episode:1 Score:10.0
-Episode:2 Score:10.0
-Episode:3 Score:10.0
-Episode:4 Score:10.0
-Episode:5 Score:12.0
-Episode:6 Score:8.0
-Episode:7 Score:10.0
-Episode:8 Score:9.0
-Episode:9 Score:11.0
-Episode:10 Score:10.0
-Episode:11 Score:10.0
-Episode:12 Score:10.0
-Episode:13 Score:9.0
-Episode:14 Score:8.0
-Episode:15 Score:11.0
-Episode:16 Score:10.0
-Episode:17 Score:10.0
-Episode:18 Score:12.0
-Episode:19 Score:15.0
-Episode:20 Score:11.0
-Episode:21 Score:10.0
-Episode:22 Score:8.0
-Episode:23 Score:9.0
-Episode:24 Score:8.0
-Episode:25 Score:10.0
-Episode:26 Score:10.0
-Episode:27 Score:9.0
-Episode:28 Score:9.0
-Episode:29 Score:9.0
-Episode:30 Score:8.0
-Episode:31 Score:10.0
-Episode:32 Score:9.0
-Episode:33 Score:11.0
-Episode:34 Score:9.0
-Episode:35 Score:9.0
-Episode:36 Score:10.0
-Episode:37 Score:11.0
-Episode:38 Score:9.0
-Episode:39 Score:11.0
-Episode:40 Score:9.0
-Episode:41 Score:10.0
-Episode:42 Score:9.0
-Episode:43 Score:11.0
-Episode:44 Score:11.0
-Episode:45 Score:9.0
-Episode:46 Score:9.0
-Episode:47 Score:9.0
-Episode:48 Score:9.0
-Episode:49 Score:9.0
-Episode:50 Score:10.0
-Episode:51 Score:10.0
-Episode:52 Score:9.0
-Episode:53 Score:10.0
-Episode:54 Score:10.0
-Episode:55 Score:11.0
-Episode:56 Score:9.0
-Episode:57 Score:12.0
-Episode:58 Score:11.0
-Episode:59 Score:9.0
-Episode:60 Score:9.0
-Episode:61 Score:12.0
-Episode:62 Score:10.0
-Episode:63 Score:10.0
-Episode:64 Score:12.0
-Episode:65 Score:13.0
-Episode:66 Score:9.0
-Episode:67 Score:10.0
-Episode:68 Score:11.0
-Episode:69 Score:9.0
-Episode:70 Score:10.0
-Episode:71 Score:9.0
-Episode:72 Score:10.0
-Episode:73 Score:10.0
-Episode:74 Score:11.0
-Episode:75 Score:9.0
-Episode:76 Score:9.0
-Episode:77 Score:8.0
-Episode:78 Score:12.0
-Episode:79 Score:10.0
-Episode:80 Score:9.0
-Episode:81 Score:9.0
-Episode:82 Score:9.0
-Episode:83 Score:11.0
-Episode:84 Score:9.0
-Episode:85 Score:10.0
-Episode:86 Score:10.0
-Episode:87 Score:8.0
-Episode:88 Score:12.0
-Episode:89 Score:9.0
-Episode:90 Score:10.0
-Episode:91 Score:11.0
-Episode:92 Score:17.0
-Episode:93 Score:10.0
-Episode:94 Score:11.0
-Episode:95 Score:12.0
-Episode:96 Score:10.0
-Episode:97 Score:9.0
-Episode:98 Score:9.0
-Episode:99 Score:11.0
-Episode:100 Score:10.0
+Episode 100	Average Score: -200.00
+Episode 200	Average Score: -200.00
+Episode 300	Average Score: -200.00
+Episode 400	Average Score: -200.00
+Episode 500	Average Score: -200.00
+Episode 600	Average Score: -200.00
+Episode 700	Average Score: -200.00
+Episode 800	Average Score: -200.00
+Episode 900	Average Score: -200.00
+Episode 1000	Average Score: -200.00
+Episode 1100	Average Score: -200.00
+Episode 1200	Average Score: -200.00
+Episode 1300	Average Score: -200.00
+Episode 1400	Average Score: -200.00
+Episode 1500	Average Score: -200.00
+Episode 1600	Average Score: -200.00
+Episode 1700	Average Score: -200.00
+Episode 1800	Average Score: -200.00
+Episode 1900	Average Score: -200.00
+Episode 2000	Average Score: -200.00
+Episode 2100	Average Score: -200.00
+Episode 2200	Average Score: -200.00
+Episode 2300	Average Score: -200.00
+Episode 2400	Average Score: -200.00
+Episode 2500	Average Score: -200.00
+Episode 2600	Average Score: -200.00
+Episode 2700	Average Score: -200.00
+Episode 2800	Average Score: -200.00
+Episode 2900	Average Score: -200.00
+Episode 3000	Average Score: -200.00
+Episode 3100	Average Score: -200.00
+Episode 3200	Average Score: -200.00
+Episode 3300	Average Score: -200.00
+Episode 3400	Average Score: -200.00
+Episode 3500	Average Score: -200.00
+Episode 3600	Average Score: -200.00
+Episode 3700	Average Score: -200.00
+Episode 3800	Average Score: -200.00
+Episode 3900	Average Score: -200.00
+Episode 4000	Average Score: -200.00
+Episode 4100	Average Score: -200.00
+Episode 4200	Average Score: -200.00
+Episode 4300	Average Score: -200.00
+Episode 4400	Average Score: -200.00
+Episode 4500	Average Score: -200.00
+Episode 4600	Average Score: -200.00
+Episode 4700	Average Score: -200.00
+Episode 4800	Average Score: -200.00
+Episode 4900	Average Score: -200.00
 
-## DynaQ+Priority_CartPole-v1
-Episode:1 Score:12.0
-Episode:2 Score:11.0
-Episode:3 Score:9.0
-Episode:4 Score:9.0
-Episode:5 Score:8.0
-Episode:6 Score:9.0
-Episode:7 Score:12.0
-Episode:8 Score:11.0
-Episode:9 Score:10.0
-Episode:10 Score:11.0
-Episode:11 Score:9.0
-Episode:12 Score:11.0
-Episode:13 Score:10.0
-Episode:14 Score:10.0
-Episode:15 Score:10.0
-Episode:16 Score:9.0
-Episode:17 Score:9.0
-Episode:18 Score:10.0
-Episode:19 Score:10.0
-Episode:20 Score:11.0
-Episode:21 Score:9.0
-Episode:22 Score:10.0
-Episode:23 Score:12.0
-Episode:24 Score:9.0
-Episode:25 Score:10.0
-Episode:26 Score:9.0
-Episode:27 Score:9.0
-Episode:28 Score:11.0
-Episode:29 Score:11.0
-Episode:30 Score:8.0
-Episode:31 Score:10.0
-Episode:32 Score:9.0
-Episode:33 Score:9.0
-Episode:34 Score:11.0
-Episode:35 Score:10.0
-Episode:36 Score:10.0
-Episode:37 Score:9.0
-Episode:38 Score:14.0
-Episode:39 Score:9.0
-Episode:40 Score:9.0
-Episode:41 Score:12.0
-Episode:42 Score:8.0
-Episode:43 Score:9.0
-Episode:44 Score:9.0
-Episode:45 Score:10.0
-Episode:46 Score:9.0
-Episode:47 Score:10.0
-Episode:48 Score:15.0
-Episode:49 Score:8.0
-Episode:50 Score:9.0
-Episode:51 Score:11.0
-Episode:52 Score:11.0
-Episode:53 Score:9.0
-Episode:54 Score:9.0
-Episode:55 Score:10.0
-Episode:56 Score:10.0
-Episode:57 Score:9.0
-Episode:58 Score:8.0
-Episode:59 Score:9.0
-Episode:60 Score:10.0
-Episode:61 Score:13.0
-Episode:62 Score:10.0
-Episode:63 Score:9.0
-Episode:64 Score:12.0
-Episode:65 Score:10.0
-Episode:66 Score:15.0
-Episode:67 Score:10.0
-Episode:68 Score:10.0
-Episode:69 Score:9.0
-Episode:70 Score:10.0
-Episode:71 Score:12.0
-Episode:72 Score:8.0
-Episode:73 Score:9.0
-Episode:74 Score:11.0
-Episode:75 Score:9.0
-Episode:76 Score:11.0
-Episode:77 Score:10.0
-Episode:78 Score:8.0
-Episode:79 Score:9.0
-Episode:80 Score:9.0
-Episode:81 Score:9.0
-Episode:82 Score:10.0
-Episode:83 Score:10.0
-Episode:84 Score:9.0
-Episode:85 Score:12.0
-Episode:86 Score:10.0
-Episode:87 Score:11.0
-Episode:88 Score:9.0
-Episode:89 Score:10.0
-Episode:90 Score:10.0
-Episode:91 Score:13.0
-Episode:92 Score:9.0
-Episode:93 Score:10.0
-Episode:94 Score:9.0
-Episode:95 Score:10.0
-Episode:96 Score:10.0
-Episode:97 Score:11.0
-Episode:98 Score:9.0
-Episode:99 Score:9.0
-Episode:100 Score:10.0
+## Robotic_Manipulation: 
+![image](https://user-images.githubusercontent.com/88390140/143988873-d52f7deb-c909-4d84-bfd5-49ede138d653.png)
 
-## DynaQ+Priority_MountainCar-v0
-Episode:1 Score:-200.0
-Episode:2 Score:-200.0
-Episode:3 Score:-200.0
-Episode:4 Score:-200.0
-Episode:5 Score:-200.0
-Episode:6 Score:-200.0
-Episode:7 Score:-200.0
-Episode:8 Score:-200.0
-Episode:9 Score:-200.0
-Episode:10 Score:-200.0
-Episode:11 Score:-200.0
-Episode:12 Score:-200.0
-Episode:13 Score:-200.0
-Episode:14 Score:-200.0
-Episode:15 Score:-200.0
-Episode:16 Score:-200.0
-Episode:17 Score:-200.0
-Episode:18 Score:-200.0
-Episode:19 Score:-200.0
-Episode:20 Score:-200.0
-Episode:21 Score:-200.0
-Episode:22 Score:-200.0
-Episode:23 Score:-200.0
-Episode:24 Score:-200.0
-Episode:25 Score:-200.0
-Episode:26 Score:-200.0
-Episode:27 Score:-200.0
-Episode:28 Score:-200.0
-Episode:29 Score:-200.0
-Episode:30 Score:-200.0
-Episode:31 Score:-200.0
-Episode:32 Score:-200.0
-Episode:33 Score:-200.0
-Episode:34 Score:-200.0
-Episode:35 Score:-200.0
-Episode:36 Score:-200.0
-Episode:37 Score:-200.0
-Episode:38 Score:-200.0
-Episode:39 Score:-200.0
-Episode:40 Score:-200.0
-Episode:41 Score:-200.0
-Episode:42 Score:-200.0
-Episode:43 Score:-200.0
-Episode:44 Score:-200.0
-Episode:45 Score:-200.0
-Episode:46 Score:-200.0
-Episode:47 Score:-200.0
-Episode:48 Score:-200.0
-Episode:49 Score:-200.0
-Episode:50 Score:-200.0
-Episode:51 Score:-200.0
-Episode:52 Score:-200.0
-Episode:53 Score:-200.0
-Episode:54 Score:-200.0
-Episode:55 Score:-200.0
-Episode:56 Score:-200.0
-Episode:57 Score:-200.0
-Episode:58 Score:-200.0
-Episode:59 Score:-200.0
-Episode:60 Score:-200.0
-Episode:61 Score:-200.0
-Episode:62 Score:-200.0
-Episode:63 Score:-200.0
-Episode:64 Score:-200.0
-Episode:65 Score:-200.0
-Episode:66 Score:-200.0
-Episode:67 Score:-200.0
-Episode:68 Score:-200.0
-Episode:69 Score:-200.0
-Episode:70 Score:-200.0
-Episode:71 Score:-200.0
-Episode:72 Score:-200.0
-Episode:73 Score:-200.0
-Episode:74 Score:-200.0
-Episode:75 Score:-200.0
-Episode:76 Score:-200.0
-Episode:77 Score:-200.0
-Episode:78 Score:-200.0
-Episode:79 Score:-200.0
-Episode:80 Score:-200.0
-Episode:81 Score:-200.0
-Episode:82 Score:-200.0
-Episode:83 Score:-200.0
-Episode:84 Score:-200.0
-Episode:85 Score:-200.0
-Episode:86 Score:-200.0
-Episode:87 Score:-200.0
-Episode:88 Score:-200.0
-Episode:89 Score:-200.0
-Episode:90 Score:-200.0
-Episode:91 Score:-200.0
-Episode:92 Score:-200.0
-Episode:93 Score:-200.0
-Episode:94 Score:-200.0
-Episode:95 Score:-200.0
-Episode:96 Score:-200.0
-Episode:97 Score:-200.0
-Episode:98 Score:-200.0
-Episode:99 Score:-200.0
-Episode:100 Score:-200.0
-
-## DynaQ+Priority_MountainCar-v0
-Episode:1 Score:-200.0
-Episode:2 Score:-200.0
-Episode:3 Score:-200.0
-Episode:4 Score:-200.0
-Episode:5 Score:-200.0
-Episode:6 Score:-200.0
-Episode:7 Score:-200.0
-Episode:8 Score:-200.0
-Episode:9 Score:-200.0
-Episode:10 Score:-200.0
-Episode:11 Score:-200.0
-Episode:12 Score:-200.0
-Episode:13 Score:-200.0
-Episode:14 Score:-200.0
-Episode:15 Score:-200.0
-Episode:16 Score:-200.0
-Episode:17 Score:-200.0
-Episode:18 Score:-200.0
-Episode:19 Score:-200.0
-Episode:20 Score:-200.0
-Episode:21 Score:-200.0
-Episode:22 Score:-200.0
-Episode:23 Score:-200.0
-Episode:24 Score:-200.0
-Episode:25 Score:-200.0
-Episode:26 Score:-200.0
-Episode:27 Score:-200.0
-Episode:28 Score:-200.0
-Episode:29 Score:-200.0
-Episode:30 Score:-200.0
-Episode:31 Score:-200.0
-Episode:32 Score:-200.0
-Episode:33 Score:-200.0
-Episode:34 Score:-200.0
-Episode:35 Score:-200.0
-Episode:36 Score:-200.0
-Episode:37 Score:-200.0
-Episode:38 Score:-200.0
-Episode:39 Score:-200.0
-Episode:40 Score:-200.0
-Episode:41 Score:-200.0
-Episode:42 Score:-200.0
-Episode:43 Score:-200.0
-Episode:44 Score:-200.0
-Episode:45 Score:-200.0
-Episode:46 Score:-200.0
-Episode:47 Score:-200.0
-Episode:48 Score:-200.0
-Episode:49 Score:-200.0
-Episode:50 Score:-200.0
-Episode:51 Score:-200.0
-Episode:52 Score:-200.0
-Episode:53 Score:-200.0
-Episode:54 Score:-200.0
-Episode:55 Score:-200.0
-Episode:56 Score:-200.0
-Episode:57 Score:-200.0
-Episode:58 Score:-200.0
-Episode:59 Score:-200.0
-Episode:60 Score:-200.0
-Episode:61 Score:-200.0
-Episode:62 Score:-200.0
-Episode:63 Score:-200.0
-Episode:64 Score:-200.0
-Episode:65 Score:-200.0
-Episode:66 Score:-200.0
-Episode:67 Score:-200.0
-Episode:68 Score:-200.0
-Episode:69 Score:-200.0
-Episode:70 Score:-200.0
-Episode:71 Score:-200.0
-Episode:72 Score:-200.0
-Episode:73 Score:-200.0
-Episode:74 Score:-200.0
-Episode:75 Score:-200.0
-Episode:76 Score:-200.0
-Episode:77 Score:-200.0
-Episode:78 Score:-200.0
-Episode:79 Score:-200.0
-Episode:80 Score:-200.0
-Episode:81 Score:-200.0
-Episode:82 Score:-200.0
-Episode:83 Score:-200.0
-Episode:84 Score:-200.0
-Episode:85 Score:-200.0
-Episode:86 Score:-200.0
-Episode:87 Score:-200.0
-Episode:88 Score:-200.0
-Episode:89 Score:-200.0
-Episode:90 Score:-200.0
-Episode:91 Score:-200.0
-Episode:92 Score:-200.0
-Episode:93 Score:-200.0
-Episode:94 Score:-200.0
-Episode:95 Score:-200.0
-Episode:96 Score:-200.0
-Episode:97 Score:-200.0
-Episode:98 Score:-200.0
-Episode:99 Score:-200.0
-Episode:100 Score:-200.0
+Episode 100	Average Score: -2866.15
+Episode 200	Average Score: -1004.95
+Episode 300	Average Score: -1006.93
+Episode 400	Average Score: -1000.00
+Episode 500	Average Score: -1000.00
+Episode 600	Average Score: -1000.99
+Episode 700	Average Score: -1000.00
+Episode 800	Average Score: -1010.89
+Episode 900	Average Score: -1000.99
+Episode 1000	Average Score: -1000.00
+Episode 1100	Average Score: -1000.00
+Episode 1200	Average Score: -1000.00
+Episode 1300	Average Score: -1000.99
+Episode 1400	Average Score: -1000.00
+Episode 1500	Average Score: -1000.00
+Episode 1600	Average Score: -1000.00
+Episode 1700	Average Score: -1000.00
+Episode 1800	Average Score: -1000.00
+Episode 1900	Average Score: -1000.00
+Episode 2000	Average Score: -1000.00
+Episode 2100	Average Score: -1000.00
+Episode 2200	Average Score: -1000.00
+Episode 2300	Average Score: -1000.00
+Episode 2400	Average Score: -1000.00
+Episode 2500	Average Score: -1000.00
+Episode 2600	Average Score: -1000.00
+Episode 2700	Average Score: -1000.00
+Episode 2800	Average Score: -1000.00
+Episode 2900	Average Score: -1000.00
+Episode 3000	Average Score: -1000.00
+Episode 3100	Average Score: -1000.00
+Episode 3200	Average Score: -1000.00
+Episode 3300	Average Score: -1000.00
+Episode 3400	Average Score: -1000.00
+Episode 3500	Average Score: -1000.00
+Episode 3600	Average Score: -1000.00
+Episode 3700	Average Score: -1000.00
+Episode 3800	Average Score: -1000.00
+Episode 3900	Average Score: -1000.00
+Episode 4000	Average Score: -1000.00
+Episode 4100	Average Score: -1000.00
+Episode 4200	Average Score: -1000.00
+Episode 4300	Average Score: -1000.00
+Episode 4400	Average Score: -1000.00
+Episode 4500	Average Score: -1000.00
+Episode 4600	Average Score: -1000.00
+Episode 4700	Average Score: -1000.99
+Episode 4800	Average Score: -1000.00
+Episode 4900	Average Score: -1000.00
